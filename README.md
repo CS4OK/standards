@@ -24,5 +24,4 @@ The following directory is provided for the benefit of the members of the Comput
 * Level 3A
 * Level 3B
 
-[sde-logo]: http://sde.ok.gov/sde/sites/ok.gov.sde/files/Logo%20Horizontal.png 
-{ width=50% }
+[sde-logo]: http://sde.ok.gov/sde/sites/ok.gov.sde/files/OSDE%20Logo%20Horizontal%20600%20Full%20Color.png

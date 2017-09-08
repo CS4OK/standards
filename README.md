@@ -11,3 +11,4 @@ The following directory is provided for the benefit of the members of the Comput
 * [Considerations for Successful Implementation](stategicplan/considerations.md)
 * [Proposed Structure](stategicplan/structure.md)
 * [Timeline](stategicplan/timeline.md)
+* really, this belongs here

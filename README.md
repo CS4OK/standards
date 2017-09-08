@@ -4,10 +4,11 @@ As Oklahoma builds upon the great work happening across Oklahoma in the area of 
 
 The COMPUTER SCIENCE STANDARDS COMMITTEE will be responsible for conducting a thorough review of existing CS standards and research-based guidance in order to develop Oklahoma's first Computer Science Standards.
 
-The following directory is provided for the benefit of the members of the Computer Science Standards Committee and its sub-committees. While this documentation is public, please respect the work as a process. 
+The following directory is provided for the benefit of the members of the Computer Science Standards Committee and its sub-committees. While this documentation is public, please respect the work as a process.
 
 ## Strategic Planning
 * [Cause for CS Standards Review](stategicplan/cause.md)
 * [Considerations for Successful Implementation](stategicplan/considerations.md)
 * [Proposed Structure](stategicplan/structure.md)
 * [Timeline](stategicplan/timeline.md)
+* [Something new](stategicplan/timeline.md)

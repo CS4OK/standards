@@ -10,11 +10,11 @@ For greater context, the term Computer Science is further defined in the recent 
 With this distinction in mind, the present strategic plan makes a special effort to address both the expectations found in the textbook adoption cycle and those that are consistent with the current landscape of Computer Science, Computational Thinking, and, to whatever extent possible, Computer Literacy, Educational Technology, Digital Citizenship, and Information Technology (see the What is NOT Computer Science? excerpt below).
 
 >### What is NOT Computer Science?
->*Computer science builds on computer literacy, educational technology, digital citizenship, and information technology. Their differences and relationship with computer science are described below.
->* **Computer literacy** refers to the general use of computers and programs, such as productivity software. Previously mentioned examples include performing an Internet search and creating a digital presentation.
->* **Educational technology** applies computer literacy to school subjects. For example, students in an English class can use a web- based application to collaboratively create, edit, and store an essay online.
->* **Digital citizenship** refers to the appropriate and responsible use of technology, such as choosing an appropriate password and keeping it secure.
->* **Information technology** often overlaps with computer science but is mainly focused on industrial applications of computer science, such as installing software rather than creating it. Information technology professionals often have a background in computer science.*
+>*Computer science builds on computer literacy, educational technology, digital citizenship, and information technology. Their differences and relationship with computer science are described below.*
+>* _**Computer literacy** refers to the general use of computers and programs, such as productivity software. Previously mentioned examples include performing an Internet search and creating a digital presentation._
+>* _**Educational technology** applies computer literacy to school subjects. For example, students in an English class can use a web- based application to collaboratively create, edit, and store an essay online._
+>* _**Digital citizenship** refers to the appropriate and responsible use of technology, such as choosing an appropriate password and keeping it secure._
+>* _**Information technology** often overlaps with computer science but is mainly focused on industrial applications of computer science, such as installing software rather than creating it. Information technology professionals often have a background in computer science._
 
 
 

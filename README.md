@@ -17,7 +17,8 @@ The following directory is provided for the benefit of the members of the Comput
 ## Standards Committee Interest Survey
 * [Final public version](https://goo.gl/forms/qPWTgZwHN6QU5MGT2)
 
-## CSTA 2017 Review ([see full CSTA standards here](https://sites.google.com/site/cstastandards/progression))
+## CSTA 2017 Review 
+####([see full CSTA standards here](https://sites.google.com/site/cstastandards/progression))
 * Level 1A
 * Level 1B
 * Level 2

@@ -19,7 +19,7 @@ The following directory is provided for the benefit of the members of the Comput
 
 ## CSTA 2017 Review 
 ##### ([see full CSTA standards here](https://sites.google.com/site/cstastandards/progression))
-* Level 1A
+* [Level 1A](standards/csta/1a.md)
 * Level 1B
 * Level 2
 * Level 3A

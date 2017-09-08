@@ -1,3 +1,5 @@
+![alt text][sde-logo]
+
 # Oklahoma Academic Standards for Computer Science
 
 As Oklahoma builds upon the great work happening across Oklahoma in the area of Computer Science, we know there is much to do in the areas of standards, curriculum, professional development, certification, policy analysis, and research. The first step in all of the work is the development of engaging and rigorous K-12 Computer Science standards that **ensure all students engage in meaningful learning that develop their understanding and application of computer science.**
@@ -11,3 +13,16 @@ The following directory is provided for the benefit of the members of the Comput
 * [Considerations for Successful Implementation](stategicplan/considerations.md)
 * [Proposed Structure](stategicplan/structure.md)
 * [Timeline](stategicplan/timeline.md)
+
+## Standards Committee Interest Survey
+* [Final public version](https://goo.gl/forms/qPWTgZwHN6QU5MGT2)
+
+## [CSTA 2017 Review](https://sites.google.com/site/cstastandards/progression)
+* Level 1A
+* Level 1B
+* Level 2
+* Level 3A
+* Level 3B
+
+[sde-logo]: http://sde.ok.gov/sde/sites/ok.gov.sde/files/Logo%20Horizontal.png 
+{ width=50% }
